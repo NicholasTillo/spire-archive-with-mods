@@ -1,0 +1,11 @@
+[
+  {
+    "id": "BLACKBEARD_LOADTHECANNONS",
+    "name": "Load the Cannons",
+    "description": "At the start of each combat, and then every 4 turns, add a Cannonball into your hand.",
+    "flavor": "Ready... Aim... Fire!!!",
+    "tier": "Starter",
+    "color": "blackbeard",
+    "icon": "blackbeard_loadthecannons.png"
+  }
+]

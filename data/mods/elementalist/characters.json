@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ELEMENTALIST_ELEMENTALIST",
+    "name": "The Elementalist",
+    "color": "elementalist",
+    "hp": 70,
+    "energy_per_turn": 3,
+    "starting_gold": 99,
+    "starting_deck": [
+      "ELEMENTALIST_STRIKE_ELEMBLUE",
+      "ELEMENTALIST_DEFEND_ELEMBLUE",
+      "ELEMENTALIST_DEFEND_ELEMBLUE",
+      "ELEMENTALIST_DEFEND_ELEMBLUE",
+      "ELEMENTALIST_DEFEND_ELEMBLUE",
+      "ELEMENTALIST_DEFEND_ELEMBLUE",
+      "ELEMENTALIST_FIRESTRIKE",
+      "ELEMENTALIST_EARTHSTRIKE",
+      "ELEMENTALIST_WATERSTRIKE",
+      "ELEMENTALIST_AIRSTRIKE",
+      "ELEMENTALIST_CRYSTAL_CHALK"
+    ],
+    "starting_relic": "ELEMENTALIST_MAGUSSTAFF",
+    "description": "A wandering mage drawn in by the spire's magic."
+  }
+]

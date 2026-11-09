@@ -1,0 +1,14 @@
+{
+  "id": "hierophant",
+  "name": "The Hierophant",
+  "author": "Corax",
+  "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1897365186",
+  "colors": [
+    {
+      "id": "hierophant",
+      "label": "Hierophant",
+      "hex": "#d9b64a",
+      "asset_color": "hierophant"
+    }
+  ]
+}

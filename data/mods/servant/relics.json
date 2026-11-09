@@ -1,0 +1,11 @@
+[
+  {
+    "id": "SERVANT_UNIFORM",
+    "name": "Uniform",
+    "description": "At the start of each combat, obtain 6 Knives.",
+    "flavor": "It helps in keeping dirty stuff away as well as in carrying weapons.",
+    "tier": "Starter",
+    "color": "servant",
+    "icon": "servant_uniform.png"
+  }
+]

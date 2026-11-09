@@ -1,0 +1,14 @@
+{
+  "id": "templar",
+  "name": "The Templar",
+  "author": "ResponsibleAlex",
+  "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2437283392",
+  "colors": [
+    {
+      "id": "templar",
+      "label": "Templar",
+      "hex": "#e3c878",
+      "asset_color": "templar"
+    }
+  ]
+}

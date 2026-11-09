@@ -1,0 +1,24 @@
+[
+  {
+    "id": "BLACKBEARD_BLACKBEARD",
+    "name": "The Blackbeard",
+    "color": "blackbeard",
+    "hp": 75,
+    "energy_per_turn": 3,
+    "starting_gold": 99,
+    "starting_deck": [
+      "BLACKBEARD_STRIKE",
+      "BLACKBEARD_STRIKE",
+      "BLACKBEARD_STRIKE",
+      "BLACKBEARD_STRIKE",
+      "BLACKBEARD_INTIMIDATINGSTRIKE",
+      "BLACKBEARD_DEFEND",
+      "BLACKBEARD_DEFEND",
+      "BLACKBEARD_DEFEND",
+      "BLACKBEARD_DEFEND",
+      "BLACKBEARD_CUTLASS"
+    ],
+    "starting_relic": "BLACKBEARD_LOADTHECANNONS",
+    "description": "After following his dusty map, he found himself trying to Slay the Spire. Skilled in using Weapons, he wants all the treasures for himself."
+  }
+]

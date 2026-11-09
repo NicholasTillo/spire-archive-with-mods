@@ -1,0 +1,14 @@
+{
+  "id": "runesmith",
+  "name": "The Runesmith",
+  "author": "The Runesmith team",
+  "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1633549612",
+  "colors": [
+    {
+      "id": "runesmith",
+      "label": "Runesmith",
+      "hex": "#c98f4a",
+      "asset_color": "runesmith"
+    }
+  ]
+}

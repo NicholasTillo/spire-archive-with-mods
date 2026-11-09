@@ -1,0 +1,24 @@
+[
+  {
+    "id": "HIEROPHANT_HIEROPHANT",
+    "name": "The Hierophant",
+    "color": "hierophant",
+    "hp": 75,
+    "energy_per_turn": 3,
+    "starting_gold": 99,
+    "starting_deck": [
+      "HIEROPHANT_STRIKE_HIEROPHANT",
+      "HIEROPHANT_STRIKE_HIEROPHANT",
+      "HIEROPHANT_STRIKE_HIEROPHANT",
+      "HIEROPHANT_STRIKE_HIEROPHANT",
+      "HIEROPHANT_PUNISH",
+      "HIEROPHANT_DEFEND_HIEROPHANT",
+      "HIEROPHANT_DEFEND_HIEROPHANT",
+      "HIEROPHANT_DEFEND_HIEROPHANT",
+      "HIEROPHANT_DEFEND_HIEROPHANT",
+      "HIEROPHANT_CHURCHCOFFERS"
+    ],
+    "starting_relic": "HIEROPHANT_PROPHETICMASKRELIC",
+    "description": "A holy creature of grand aspirations, tested by greed. Converts its enemies through benevolence or bribery."
+  }
+]

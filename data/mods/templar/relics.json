@@ -1,0 +1,11 @@
+[
+  {
+    "id": "TEMPLAR_CODEOFCHIVALRY",
+    "name": "Code Of Chivalry",
+    "description": "At the start of each combat, Inscribe 1 Valor.",
+    "flavor": "A list of rules for a knight of the order to follow.",
+    "tier": "Starter",
+    "color": "templar",
+    "icon": "templar_codeofchivalry.png"
+  }
+]

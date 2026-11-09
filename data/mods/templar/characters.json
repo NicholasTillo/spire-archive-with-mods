@@ -1,0 +1,24 @@
+[
+  {
+    "id": "TEMPLAR_TEMPLAR",
+    "name": "The Templar",
+    "color": "templar",
+    "hp": 75,
+    "energy_per_turn": 3,
+    "starting_gold": 99,
+    "starting_deck": [
+      "TEMPLAR_STRIKE",
+      "TEMPLAR_STRIKE",
+      "TEMPLAR_STRIKE",
+      "TEMPLAR_STRIKE",
+      "TEMPLAR_DEFEND",
+      "TEMPLAR_DEFEND",
+      "TEMPLAR_DEFEND",
+      "TEMPLAR_DEFEND",
+      "TEMPLAR_RIGHTEOUSBLOW",
+      "TEMPLAR_BLESSEDCLOAK"
+    ],
+    "starting_relic": "TEMPLAR_CODEOFCHIVALRY",
+    "description": "Sworn to his liege, champion of the Five Ideals, the Templar quests to cleanse the Spire of corruption."
+  }
+]

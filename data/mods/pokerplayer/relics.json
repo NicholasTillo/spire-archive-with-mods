@@ -1,0 +1,11 @@
+[
+  {
+    "id": "POKERPLAYER_DECKCASE",
+    "name": "Deck Case",
+    "description": "Each combat, the first 6 Status cards entering your deck are exhausted.",
+    "flavor": "Having this calms you down and help you quickly recover from bad conditions.",
+    "tier": "Starter",
+    "color": "pokerplayer",
+    "icon": "pokerplayer_deckcase.png"
+  }
+]

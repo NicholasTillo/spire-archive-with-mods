@@ -1,0 +1,29 @@
+[
+  {
+    "id": "POKERPLAYER_POKERPLAYER",
+    "name": "The Poker Player",
+    "color": "pokerplayer",
+    "hp": 52,
+    "energy_per_turn": 3,
+    "starting_gold": 99,
+    "starting_deck": [
+      "POKERPLAYER_DIAMOND_1",
+      "POKERPLAYER_DIAMOND_2",
+      "POKERPLAYER_DIAMOND_3",
+      "POKERPLAYER_DIAMOND_4",
+      "POKERPLAYER_DIAMOND_5",
+      "POKERPLAYER_SPADE_1",
+      "POKERPLAYER_SPADE_2",
+      "POKERPLAYER_SPADE_3",
+      "POKERPLAYER_SPADE_4",
+      "POKERPLAYER_CLUB_1",
+      "POKERPLAYER_CLUB_2",
+      "POKERPLAYER_HEART_2",
+      "POKERPLAYER_TRUMPSTRIKE",
+      "POKERPLAYER_BADJOKER",
+      "POKERPLAYER_MULLIGAN"
+    ],
+    "starting_relic": "POKERPLAYER_DECKCASE",
+    "description": "Former professional poker player. He fights with his own rule of card tricks."
+  }
+]

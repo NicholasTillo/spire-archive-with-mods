@@ -1,0 +1,11 @@
+[
+  {
+    "id": "BUGKNIGHT_VESSELMASK",
+    "name": "Knight's Mask",
+    "description": "Gain 1 Soul each time you play an Attack card. (Except Spell or Ally Attacks)",
+    "flavor": "All vessels carry a mask.",
+    "tier": "Starter",
+    "color": "bugknight",
+    "icon": "bugknight_vesselmask.png"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "BLADEDANCER_DANCERSAMULET",
+    "name": "Dancer's Amulet",
+    "description": "Whenever you play 3 cards in a single turn, draw 1 card.",
+    "flavor": "A mildly special amulet, I suppose.",
+    "tier": "Starter",
+    "color": "bladedancer",
+    "icon": "bladedancer_dancersamulet.png"
+  }
+]

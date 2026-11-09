@@ -1,0 +1,11 @@
+[
+  {
+    "id": "RUNESMITH_BROKENRUBY",
+    "name": "Broken Ruby",
+    "description": "At the start of each combat, gain 2 Ignis.\nAt the start of your turn, Enhance a random card in your hand.",
+    "flavor": "A crystal that resembles a red gem. Although it is broken, faint energy still remains.",
+    "tier": "Starter",
+    "color": "runesmith",
+    "icon": "runesmith_brokenruby.png"
+  }
+]

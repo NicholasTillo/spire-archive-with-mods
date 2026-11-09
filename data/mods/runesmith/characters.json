@@ -1,0 +1,24 @@
+[
+  {
+    "id": "RUNESMITH_RUNESMITH",
+    "name": "The Runesmith",
+    "color": "runesmith",
+    "hp": 70,
+    "energy_per_turn": 3,
+    "starting_gold": 99,
+    "starting_deck": [
+      "RUNESMITH_STRIKE_RS",
+      "RUNESMITH_STRIKE_RS",
+      "RUNESMITH_STRIKE_RS",
+      "RUNESMITH_STRIKE_RS",
+      "RUNESMITH_DEFEND_RS",
+      "RUNESMITH_DEFEND_RS",
+      "RUNESMITH_DEFEND_RS",
+      "RUNESMITH_DEFEND_RS",
+      "RUNESMITH_CRAFTFIRESTONE",
+      "RUNESMITH_FORTIFY"
+    ],
+    "starting_relic": "RUNESMITH_BROKENRUBY",
+    "description": "A smith from a long lost civilization. Uses forgotten knowledge to craft runes."
+  }
+]

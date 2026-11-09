@@ -1,0 +1,24 @@
+[
+  {
+    "id": "BLADEDANCER_BLADEDANCER",
+    "name": "The Bladedancer",
+    "color": "bladedancer",
+    "hp": 75,
+    "energy_per_turn": 3,
+    "starting_gold": 99,
+    "starting_deck": [
+      "BLADEDANCER_STRIKE",
+      "BLADEDANCER_STRIKE",
+      "BLADEDANCER_STRIKE",
+      "BLADEDANCER_STRIKE",
+      "BLADEDANCER_DEFEND",
+      "BLADEDANCER_DEFEND",
+      "BLADEDANCER_DEFEND",
+      "BLADEDANCER_DEFEND",
+      "BLADEDANCER_RAGINGBLOW",
+      "BLADEDANCER_HIGHVOLTAGE"
+    ],
+    "starting_relic": "BLADEDANCER_DANCERSAMULET",
+    "description": "The Bladedancer is a swift and precise fighter who utilizes long-forgotten swordsmanship techniques to cut down his foes"
+  }
+]

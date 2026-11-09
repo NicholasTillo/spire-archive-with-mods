@@ -1,0 +1,14 @@
+{
+  "id": "pokerplayer",
+  "name": "The Poker Player",
+  "author": "The Poker Player team",
+  "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1710999325",
+  "colors": [
+    {
+      "id": "pokerplayer",
+      "label": "Poker Player",
+      "hex": "#c9463d",
+      "asset_color": "pokerplayer"
+    }
+  ]
+}

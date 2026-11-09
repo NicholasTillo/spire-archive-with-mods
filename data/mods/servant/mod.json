@@ -1,0 +1,14 @@
+{
+  "id": "servant",
+  "name": "The Servant",
+  "author": "BlackRuse, Kuzomari, Dimlight",
+  "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1615745539",
+  "colors": [
+    {
+      "id": "servant",
+      "label": "Servant",
+      "hex": "#b3bcc9",
+      "asset_color": "servant"
+    }
+  ]
+}

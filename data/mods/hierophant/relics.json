@@ -1,0 +1,11 @@
+[
+  {
+    "id": "HIEROPHANT_PROPHETICMASKRELIC",
+    "name": "Prophetic Mask",
+    "description": "Retain the highest cost card of your hand (Chosen at random when tied).",
+    "flavor": "For and from the heavens.",
+    "tier": "Starter",
+    "color": "hierophant",
+    "icon": "hierophant_propheticmaskrelic.png"
+  }
+]

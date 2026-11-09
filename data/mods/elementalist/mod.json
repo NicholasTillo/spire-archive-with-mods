@@ -1,0 +1,14 @@
+{
+  "id": "elementalist",
+  "name": "The Elementalist",
+  "author": "jakeb89",
+  "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1637996817",
+  "colors": [
+    {
+      "id": "elementalist",
+      "label": "Elementalist",
+      "hex": "#4f7fd1",
+      "asset_color": "elementalist"
+    }
+  ]
+}

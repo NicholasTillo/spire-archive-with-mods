@@ -1,0 +1,14 @@
+{
+  "id": "blackbeard",
+  "name": "The Blackbeard",
+  "author": "The Blackbeard team",
+  "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1612105245",
+  "colors": [
+    {
+      "id": "blackbeard",
+      "label": "Blackbeard",
+      "hex": "#6b6f7a",
+      "asset_color": "blackbeard"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bladedancer",
+  "name": "The Bladedancer",
+  "author": "The Bladedancer team",
+  "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1731281703",
+  "colors": [
+    {
+      "id": "bladedancer",
+      "label": "Bladedancer",
+      "hex": "#7f8fa8",
+      "asset_color": "bladedancer"
+    }
+  ]
+}

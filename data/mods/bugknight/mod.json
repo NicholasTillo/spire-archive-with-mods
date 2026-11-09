@@ -1,0 +1,14 @@
+{
+  "id": "bugknight",
+  "name": "The Bug Knight",
+  "author": "Venim",
+  "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1750758531",
+  "colors": [
+    {
+      "id": "bugknight",
+      "label": "Bug Knight",
+      "hex": "#b8c2cc",
+      "asset_color": "bugknight"
+    }
+  ]
+}
